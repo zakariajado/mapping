@@ -1,1 +1,7 @@
 yahoo.com google.com
+# restricted youtube, bing, google and duckduckgo search
+216.239.38.120	restrict.youtube.com
+216.239.38.119	restrictmoderate.youtube.com
+216.239.38.120	forcesafesearch.google.com
+204.79.197.220	strict.bing.com
+46.51.179.90	safe.duckduckgo.com
